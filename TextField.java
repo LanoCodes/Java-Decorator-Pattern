@@ -1,4 +1,6 @@
 //Delano Powell
+
+//This is the core class. aka, the middle of the wrapper
 public class TextField implements Widget {
 
     public int width;
