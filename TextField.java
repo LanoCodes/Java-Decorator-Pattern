@@ -1,6 +1,6 @@
 //Delano Powell
 
-//This is the core class. aka, the middle of the wrapper
+//This is the core class. This means that this is the class which will be wrapped by the others
 public class TextField implements Widget {
 
     public int width;
